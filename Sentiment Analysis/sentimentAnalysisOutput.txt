@@ -1,0 +1,42 @@
+Year 2018:
+Positive counter: 9818 - 79%
+Negative counter: 2682 - 21%
+Medium polarity: 0.07968179868980362
+Medium subjectivity: 0.2372138425962362 - 24%
+
+---
+Year 2019:
+Positive counter: 4278 - 80%
+Negative counter: 1087 - 20%
+Medium polarity: 0.08046711195485269
+Medium subjectivity: 0.23632085629403812 - 24%
+
+---
+Year 2020:
+Positive counter: 9071 - 80%
+Negative counter: 2273 - 20%
+Medium polarity: 0.0808885720854108
+Medium subjectivity: 0.2197228664284837 - 22%
+
+---
+Year 2021:
+Positive counter: 39996 - 74%
+Negative counter: 13653 - 26%
+Medium polarity: 0.07619955964646256
+Medium subjectivity: 0.24214428141395783 - 24%
+
+---
+Year 2022:
+Positive counter: 17866 - 73%
+Negative counter: 6446 - 27%
+Medium polarity: 0.07248954060816064
+Medium subjectivity: 0.2477435570242761 - 25%
+
+
+---
+Total:
+Positive counter: 81029
+Negative counter: 26141
+Medium polarity: 0.07657139976242151
+Medium subjectivity: 0.2397777004379987
+
